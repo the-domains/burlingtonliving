@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[burlingtonliving]]></title>
         <description><![CDATA[burlingtonliving]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/burlingtonliving/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 00:52:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 01:22:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/burlingtonliving/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b0b4dfe-47a4-48f9-9423-00698eaf6ac5.jpg">]]></description>
+            <link>https://thegrid.ai/burlingtonliving/7b5c8b89-370f-4f24-84b5-ead27bc5b2e9/index.html</link>
+            <guid isPermaLink="false">7b5c8b89-370f-4f24-84b5-ead27bc5b2e9</guid>
+            <pubDate>Wed, 09 Dec 2015 01:21:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97388bf8-764b-41f3-8544-9e63f94e2ea5.jpg">]]></description>
-            <link>undefinedfa32ab47-ed11-4e50-813f-d71b752524e0/index.html</link>
+            <link>https://thegrid.ai/burlingtonliving/fa32ab47-ed11-4e50-813f-d71b752524e0/index.html</link>
             <guid isPermaLink="false">fa32ab47-ed11-4e50-813f-d71b752524e0</guid>
             <pubDate>Wed, 09 Dec 2015 00:52:24 GMT</pubDate>
         </item>

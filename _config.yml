@@ -1,7 +1,7 @@
 name: burlingtonliving
 favicon: null
 layout_spectrum: 0.28530461550690234
-typography_spectrum: 0.27795566408894956
+typography_spectrum: 0.50338
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000d13'
+    - '#012d3a'
+    - '#204653'
+    - '#485155'
+    - '#516d78'
   brandStrength: 0.13484340952709317
-  lightness: 0.043890989385545254
+  lightness: 0.25
   saturation: 0.9350127035286278
   rhythmicContrast: 0.22261661011725664
 purpose: []

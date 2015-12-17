@@ -1,6 +1,6 @@
 name: burlingtonliving
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76058
 typography_spectrum: 0.50338
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#485155'
     - '#516d78'
   brandStrength: 0
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
